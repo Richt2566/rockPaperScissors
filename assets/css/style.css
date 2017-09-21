@@ -1,0 +1,31 @@
+body {
+	background-color: #bf4226;
+}
+
+h1 {
+	text-align: center;
+}
+.main-content {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.title {
+	font-size: 50px;
+}
+.hands {
+	margin: 0 auto;
+}
+
+.score {
+	margin-left: 250px;
+	width: 400px;
+	height: auto;
+	background-color: #bf4226;
+	border: 5px solid black;
+	padding: 5px;
+}
+
+.score h1 {
+	text-align: center;
+}
